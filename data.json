@@ -1,0 +1,224 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "image": "/intergalatic-federation.jpg",
+      "title": "Intergalatic Federation",
+      "description": [
+        "<h2>Descrição</h2>",
+        "<p>",
+          "Neste projeto fiz a implementação de uma API pressupondo que haja uma federação intergalática onde há pilotos e naves, onde um piloto precisa de uma nave para fazer entregas em outros planetas.",
+        "</p>",
+        "<h2>Tecnologias e Padrões utilizados</h2>",
+        "<p>",
+          "Foi utilizado NodeJS com Typescript, Express, Typeorm, PostgressSQL, Typeorm, Eslint, Swagger, Husky, Lint Staged, supertest, Jest, git-message-linter.",
+        "</p>",
+        "<p>Você pode ver mais detalhes no arquivo package.json e caso queira vasculhando o código do projeto</p>"
+      ],
+      "repositoryLink": "https://github.com/VictorAugDB/Intergalatic-Federation"
+    },
+    {
+      "id": "2",
+      "image": "/gostack.jpg",
+      "title": "Go Stack",
+      "description": [
+        "<h2>Descrição</h2>",
+        "<p>",
+          "Aqui ficam todos os meus desafios feitos no bootcamp go stack em 2021.",
+        "</p>",
+        "<h2>Tecnologias e Padrões utilizados</h2>",
+        "<p>",
+          "Foi utilizado NodeJS com Typescript, ReactJS, React Native, Express, Typeorm, PostgressSQL, Typeorm, Eslint, Jest.",
+        "</p>"
+      ],
+      "repositoryLink": "https://github.com/VictorAugDB/desafios-gostack"
+    },
+    {
+      "id": "3",
+      "image": "/podcastr.png",
+      "title": "NLW 5 Podcastr",
+      "description": [
+        "<h2>Descrição</h2>",
+        "<p>",
+          "Feito uma aplicação utilizando NextJS para reprodução de audios de podcast, onde percorri a milha extra (Fiz algumas adições) que foram, deixar a aplicação responsiva e aplicar um dark mode.",
+        "</p>",
+        "<h2>Tecnologias e Padrões utilizados</h2>",
+        "<p>",
+          "Foi utilizado NextJS com Typescript.",
+        "</p>"
+      ],
+      "repositoryLink": "https://github.com/VictorAugDB/podcastr-NLW-5"
+    }
+  ],
+  "experiences": [
+    {
+      "companyName": "Gentrop",
+      "startDate": [14, 6, 2021],
+      "endDate": [4, 5, 2022],
+      "role": "Desenvolvedor Fullstack",
+      "description": [
+        "<p>",
+          "Construir aplicações desde o planejamento até a implementação e deploy utilizando as melhores práticas de desenvolvimento de software utilizando como tecnologias NodeJS e ReactJS e diversas bibliotecas utilizadas no mercado como Express;",
+        "</p>",
+        "<p>Utilizar SDKs do Google Workspace, Firestore, Gmail, Google Drive;</p>",
+        "<p>Utilizar DDD, Clean Architecture e TDD;</p>",
+        "<p>Utilizar Github e Gitlab como versionamento de código, utilizar Conventional Commits.</p>"
+      ]
+    },
+    {
+      "companyName": "Codeminer",
+      "role": "Desenvolvedor Fullstack",
+      "startDate": [5, 5, 2022],
+      "endDate": [25, 7, 2022],
+      "description": [
+        "<p>",
+          "Construir aplicações desde o planejamento até a implementação e deploy utilizando as melhores práticas de   desenvolvimento de software utilizando como tecnologias NodeJS e ReactJS;",
+        "</p>",
+        "<p>Utilizar Github e Gitlab como versionamento de código, utilizar Conventional Commits.</p>"     
+      ]
+    }
+  ],
+  "tecnologies": [
+    {
+      "image": {
+        "src": "/node.png",
+        "alt": "node"
+      },
+      "text": "NodeJS"
+    },
+    {
+      "image": {
+        "src": "/react.png",
+        "alt": "react"
+      },
+      "text": "ReactJS"
+    },
+    {
+      "text": "Express"
+    },
+    {
+      "text": "Jest"
+    },
+    {
+      "image": {
+        "src": "/docker.png",
+        "alt": "docker"
+      },
+      "text": "Docker"
+    },
+    {
+      "image": {
+        "src": "/docker.png",
+        "alt": "docker"
+      },
+      "text": "Docker Compose"
+    },
+    {
+      "image": {
+        "src": "/github.png",
+        "alt": "github"
+      },
+      "text": "Github CI"
+    },
+    {
+      "image": {
+        "src": "/github.png",
+        "alt": "github"
+      },
+      "text": "Gitlab CI"
+    },
+    {
+      "image": {
+        "src": "/next.png",
+        "alt": "next"
+      },
+      "text": "NextJS"
+    },
+    {
+      "image": {
+        "src": "/nest.png",
+        "alt": "nest"
+      },
+      "text": "NestJS"
+    },
+    {
+      "image": {
+        "src": "/kafka.png",
+        "alt": "kafka"
+      },
+      "text": "Kafka"
+    },
+    {
+      "image": {
+        "src": "/rabbitmq.png",
+        "alt": "rabbitmq"
+      },
+      "text": "RabbitMQ"
+    },
+    {
+      "image": {
+        "src": "/typescript.png",
+        "alt": "typescript"
+      },
+      "text": "Typescript"
+    },
+    {
+      "text": "HTML5, CSS3, Javascript"
+    },
+    {
+      "image": {
+        "src": "/postgress.png",
+        "alt": "postgress"
+      },
+      "text": "PostgressSQL"
+    },
+    {
+      "image": {
+        "src": "/mysql.png",
+        "alt": "mysql"
+      },
+      "text": "MySQL"
+    },
+    {
+      "text": "SQL Server"
+    },
+    {
+      "image": {
+        "src": "/firestore.png",
+        "alt": "firestore"
+      },
+      "text": "Firestore"
+    },
+    {
+      "image": {
+        "src": "/mongodb.png",
+        "alt": "mongodb"
+      },
+      "text": "MongoDB"
+    },
+    {
+      "text": "TypeORM"
+    },
+    {
+      "image": {
+        "src": "/redis.png",
+        "alt": "redis"
+      },
+      "text": "Redis"
+    },
+    {
+      "image": {
+        "src": "/google.png",
+        "alt": "google"
+      },
+      "text": "Google Workspace"
+    },
+    {
+      "image": {
+        "src": "/aws.png",
+        "alt": "aws"
+      },
+      "text": "AWS |S3, SES|"
+    }
+  ]
+}
